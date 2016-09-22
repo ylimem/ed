@@ -1,10 +1,18 @@
-## “LA FALANGE” REVISTA DE CULTURA LATINA
+---
+layout: narrative
+title: La Falange Revista de cultura latina
+author: Jaime Torres Bodet y Bernardo Ortize de Montellano eds.
+publication-date: 1980
+source: "Torres Bodet, Jaime, and Bernardo Ortiz de Montellano. La Falange, 1922-1923. n.p.: Mexico : Fondo de Cultura Económica, c1980., 1980."
+---
+
+#“LA FALANGE” REVISTA DE CULTURA LATINA
 
 
-# Directores:
+## Directores:
 
 
-# Jaime Torres Bodet y Bernardo Ortiz de Montellano
+## Jaime Torres Bodet y Bernardo Ortiz de Montellano
 
 
 Av. República Argentina, nu'm. 35 Apartado Postal 562. —- México, D. F.
