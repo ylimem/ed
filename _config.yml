@@ -3,17 +3,17 @@
 # Setup
 title:               Project List
 tagline:             'New ideas, new work'
-description:         'Here are the beginnings of new projects and scraps of older work.'
+description:         'Beginnings of new projects and scraps of older work.'
 url:                 'http://minicomp.github.io'
 baseurl:             '/ed'
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              Emily McGinn
+  url:               https://emilymcginn.com
+  email:             
 
-# Color scheme. Options: red, orange, magenta, cyan, blue, brown
+# Color scheme. Options: red, green, magenta, cyan, blue, brown
 color-scheme:
 
 # Permalinks
