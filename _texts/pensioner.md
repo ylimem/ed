@@ -7,12 +7,13 @@ source: Poetry dot com
 ---
 
 - ALTHOUGH I shelter from the rain
+- Under a broken tree,
 Under a broken tree,
-My chair was nearest to the fire
-In every company
-That talked of love or politics,
-Ere Time transfigured me.
-Though lads are making pikes again
+- My chair was nearest to the fire
+- In every company
+- That talked of love or politics,
+- Ere Time transfigured me.
+- Though lads are making pikes again
 For some conspiracy,
 And crazy rascals rage their fill
 At human tyranny,
