@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: narrative
 title: "Voiced bodies, unbodied voices"
 author: Emily McGinn
 source: notes
