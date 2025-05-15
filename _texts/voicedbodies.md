@@ -12,7 +12,7 @@ source: notes
   - broken speech <br>
   - rethinking this connection<br>
   - crip linguistics<br>
-  <br>
+  
 **Chapter 2:** Machine as speaker and hearer
   <br>
   <br>
