@@ -10,7 +10,6 @@ Our [annotations on hypothes.is](https://hypothes.is/groups/4bnqzdi7/data-readin
 - Notes on hypothes.is
 <br>
 <br>
-
 [AI Snake Oil](https://www.aisnakeoil.com/)
 - July 22 Chapters 1-3
 - Predictive AI
