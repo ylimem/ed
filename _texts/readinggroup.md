@@ -12,8 +12,8 @@ Our [annotations on hypothes.is](https://hypothes.is/groups/4bnqzdi7/data-readin
 
 *[AI Snake Oil](https://www.aisnakeoil.com/)
 July 22 Chapters 1-3
-**Predictive AI
-**Case Studies
+** Predictive AI
+*** Case Studies
 - Higher Ed
 - - EAB Navigate p. 36
 - Policing
@@ -23,5 +23,5 @@ July 22 Chapters 1-3
 - Social
 - - Fragile Families Challenge p. 71
 
-Additional Materials
+<h2>Additional Materials
 - [Could AI slow science?](https://www.aisnakeoil.com/p/could-ai-slow-science)
