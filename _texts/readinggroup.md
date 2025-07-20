@@ -22,5 +22,9 @@ July 22 Chapters 1-3
 - Social
 - - Fragile Families Challenge p. 71
 
+7/29 Ch 4-6
+8/5 Ch 7-8
+
 # Additional Materials
 - [Could AI slow science?](https://www.aisnakeoil.com/p/could-ai-slow-science)
+- [Future reading suggestions](https://livejohnshopkins-my.sharepoint.com/:x:/g/personal/emcginn5_jh_edu/Ed8MTOIWqpZBg66fLKKjuBsBGDQoxONAcEc3PHqN3TdKjg)
