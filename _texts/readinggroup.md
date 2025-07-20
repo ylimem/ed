@@ -6,11 +6,11 @@ Reading texts about data and AI collaboratively.
 Our [annotations on hypothes.is](https://hypothes.is/groups/4bnqzdi7/data-reading-group).
   <br>
   <br>
-*[Data Feminism](https://data-feminism.mitpress.mit.edu/)
+<h2>[Data Feminism](https://data-feminism.mitpress.mit.edu/)</h2>
 - Notes on [hypothes.is](https://hypothes.is/groups/4bnqzdi7/data-reading-group)
 <br>
 
-*[AI Snake Oil](https://www.aisnakeoil.com/)
+[AI Snake Oil](https://www.aisnakeoil.com/)
 July 22 Chapters 1-3
 ** Predictive AI
 *** Case Studies
