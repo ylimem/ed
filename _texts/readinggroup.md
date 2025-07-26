@@ -21,8 +21,10 @@ July 22 Chapters 1-3
 - {:.indent-3} Hire Vue p. 42
 - Social
 - {:.indent-3} Fragile Families Challenge p. 71
-#### Generative AI
-7/29 Ch 4-6
+
+### Generative AI
+7/29 Ch 4-
+
 
 8/5 Ch 7-8
 
