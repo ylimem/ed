@@ -29,7 +29,7 @@ July 22 Chapters 1-3
 8/5 Ch 7-8
 
 # Additional Materials
-- [Resources](https://ylimem.github.io/ed/documentation/)
+- [Resources](https://ylimem.github.io/ed/resources)
 ---
 
 - [Future reading suggestions](https://livejohnshopkins-my.sharepoint.com/:x:/g/personal/emcginn5_jh_edu/Ed8MTOIWqpZBg66fLKKjuBsBGDQoxONAcEc3PHqN3TdKjg)
