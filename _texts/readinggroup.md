@@ -10,22 +10,24 @@ Our [annotations on hypothes.is](https://hypothes.is/groups/4bnqzdi7/data-readin
 
 # [AI Snake Oil](https://www.aisnakeoil.com/)
 
+### Predictive AI
 July 22 Chapters 1-3
-## Predictive AI
-### Case Studies
+#### Case Studies
 - Higher Ed
-- - EAB Navigate p. 36
+- {:.indent-3} EAB Navigate p. 36
 - Policing
-- - COMPAS p. 41
+- {:.indent-3} COMPAS p. 41
 - Hiring
-- - Hire Vue p. 42
+- {:.indent-3} Hire Vue p. 42
 - Social
-- - Fragile Families Challenge p. 71
-
+- {:.indent-3} Fragile Families Challenge p. 71
+#### Generative AI
 7/29 Ch 4-6
+
 8/5 Ch 7-8
 
 # Additional Materials
 - [Resources](https://ylimem.github.io/ed/documentation/)
-------
+---
+
 - [Future reading suggestions](https://livejohnshopkins-my.sharepoint.com/:x:/g/personal/emcginn5_jh_edu/Ed8MTOIWqpZBg66fLKKjuBsBGDQoxONAcEc3PHqN3TdKjg)
