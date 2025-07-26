@@ -26,6 +26,5 @@ July 22 Chapters 1-3
 8/5 Ch 7-8
 
 # Additional Materials
-- [Could AI slow science?](https://www.aisnakeoil.com/p/could-ai-slow-science)
-- [Snake Oil](https://podcasts.apple.com/us/podcast/snake-oil/id1535408667?i=1000507558767) episode of the Maintenance Phase podcast that details the history of actual Snake Oil.
+------
 - [Future reading suggestions](https://livejohnshopkins-my.sharepoint.com/:x:/g/personal/emcginn5_jh_edu/Ed8MTOIWqpZBg66fLKKjuBsBGDQoxONAcEc3PHqN3TdKjg)
