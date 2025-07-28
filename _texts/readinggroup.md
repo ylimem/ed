@@ -31,6 +31,7 @@ July 22 Chapters 1-3
 - {:.indent-3} Defamtion by chatbot p. 140
 - {:.indent-3} Deepfakes p. 142
 - {:.indent-3} ELIZA p. 165
+
 #### Labor
 - Amazon Mechanical Turk p. 115
 - Appropriation of creative labor
