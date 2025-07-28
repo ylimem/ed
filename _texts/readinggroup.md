@@ -49,8 +49,6 @@ July 22 Chapters 1-3
 - Labor exploitation for content moderation p. 180-83
 
 
-
-
 8/5 Ch 7-8
 
 # Additional Materials
