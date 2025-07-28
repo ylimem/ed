@@ -23,7 +23,32 @@ July 22 Chapters 1-3
 - {:.indent-3} Fragile Families Challenge p. 71
 
 ### Generative AI
-7/29 Ch 4-6
+7/29 Ch 4-5
+#### Case Studies
+- AI History
+- {:.indent-3} ImageNet p. 111
+- {:.indent-3} AlexNet p. 113
+- {:.indent-3} Defamtion by chatbot p. 140
+- {:.indent-3} Deepfakes p. 142
+- {:.indent-3} ELIZA p. 165
+#### Labor
+- Amazon Mechanical Turk p. 115
+- Appropriation of creative labor
+- Stable Diffusion p. 122
+- Labor for training data labelling p 144, 148
+
+### Content Moderation AI
+7/29 Ch 6
+- Seven reasons content moderation is hard p. 217
+#### Case Studies
+- Content ID p. 206
+- Mark and sick child p. 195
+- ImageNet p. 111
+- {:.indent-3} AlexNet p. 113
+#### Labor
+- Labor exploitation for content moderation p. 180-83
+
+
 
 
 8/5 Ch 7-8
