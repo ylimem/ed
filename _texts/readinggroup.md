@@ -10,7 +10,7 @@ Our [annotations on hypothes.is](https://hypothes.is/groups/4bnqzdi7/data-readin
 
 # [AI Snake Oil](https://www.aisnakeoil.com/)
 
-### Predictive AI
+## Predictive AI
 July 22 Chapters 1-3
 #### Case Studies
 - Higher Ed
@@ -22,7 +22,7 @@ July 22 Chapters 1-3
 - Social
 - {:.indent-3} Fragile Families Challenge p. 71
 
-### Generative AI
+## Generative AI
 7/29 Ch 4-5
 #### Case Studies
 - AI History
@@ -38,7 +38,7 @@ July 22 Chapters 1-3
 - Stable Diffusion p. 122
 - Labor for training data labelling p 144, 148
 
-### Content Moderation AI
+## Content Moderation AI
 7/29 Ch 6
 #### Case Studies
 - Content ID p. 206
@@ -51,7 +51,7 @@ July 22 Chapters 1-3
 - Labor exploitation for content moderation p. 180-83
 
 
-8/5 Ch 7-8
+8/12 Ch 7-8
 
 # Additional Materials
 - [Resources](https://ylimem.github.io/ed/resources)
