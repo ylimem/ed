@@ -28,7 +28,7 @@ July 22 Chapters 1-3
 - AI History
 - {:.indent-3} ImageNet p. 111
 - {:.indent-3} AlexNet p. 113
-- {:.indent-3} Defamtion by chatbot p. 140
+- {:.indent-3} Defamation by chatbot p. 140
 - {:.indent-3} Deepfakes p. 142
 - {:.indent-3} ELIZA p. 165
 
