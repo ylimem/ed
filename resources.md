@@ -19,7 +19,7 @@ author: Emily McGinn
 - [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://s10251.pcdn.co/pdf/2021-bender-parrots.pdf), Emily Bender, Timnit Gebru, Angelina McMillan-Major, Scmargaret Shmitchell (2021)
 
 ### Books
--[Solidarity: The Past, Present, and Future of a World-Changing Idea](https://www.penguinrandomhouse.com/books/740355/solidarity-by-leah-hunt-hendrix-and-astra-taylor/), Leah Hunt-Hendrix, Astra Taylor
+- [Solidarity: The Past, Present, and Future of a World-Changing Idea](https://www.penguinrandomhouse.com/books/740355/solidarity-by-leah-hunt-hendrix-and-astra-taylor/), Leah Hunt-Hendrix, Astra Taylor
 
 ---
 
