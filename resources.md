@@ -15,7 +15,7 @@ author: Emily McGinn
 ## Articles
 - [A Primer on AI in/from the Majority World](https://datasociety.net/library/a-primer-on-ai-in-from-the-majority-world/), Sareeta Amrute, Ranjit Singh, Rigoberto Lara Guzmán (2022)
 - [Could AI slow science?](https://www.aisnakeoil.com/p/could-ai-slow-science), Sayash Kapoor and Arvind Narayanan (2025)
-- [On the Dangers of Stochastic Parrots: Can Languae Models Be Too Big?](https://s10251.pcdn.co/pdf/2021-bender-parrots.pdf), Emily Bender, Timnit Gebru, Angelina McMillan-Major, Scmargaret Shmitchell (2021)
+- [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://s10251.pcdn.co/pdf/2021-bender-parrots.pdf), Emily Bender, Timnit Gebru, Angelina McMillan-Major, Scmargaret Shmitchell (2021)
 
 
 ---
