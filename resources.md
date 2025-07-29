@@ -12,11 +12,14 @@ author: Emily McGinn
 
 ---
 
-## Articles
+## Articles and books
+### Articles
 - [A Primer on AI in/from the Majority World](https://datasociety.net/library/a-primer-on-ai-in-from-the-majority-world/), Sareeta Amrute, Ranjit Singh, Rigoberto Lara Guzmán (2022)
 - [Could AI slow science?](https://www.aisnakeoil.com/p/could-ai-slow-science), Sayash Kapoor and Arvind Narayanan (2025)
 - [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://s10251.pcdn.co/pdf/2021-bender-parrots.pdf), Emily Bender, Timnit Gebru, Angelina McMillan-Major, Scmargaret Shmitchell (2021)
 
+### Books
+-[Solidarity: The Past, Present, and Future of a World-Changing Idea](https://www.penguinrandomhouse.com/books/740355/solidarity-by-leah-hunt-hendrix-and-astra-taylor/), Leah Hunt-Hendrix, Astra Taylor
 
 ---
 
@@ -38,4 +41,8 @@ author: Emily McGinn
 ## Other things
 - [Data & Society](https://datasociety.net/)
 - {:.indent-3} Aggregation of technology policy and materials grounded in research.
+- [Preventing Woke AI in the Federal Government](https://www.whitehouse.gov/presidential-actions/2025/07/preventing-woke-ai-in-the-federal-government/)
+- {:.indent-3} Executive Order July 23, 2025
+- [Nightshade](https://nightshade.cs.uchicago.edu/)
+- {:.indent-3} Method for "poisoning" images in AI data models
 
