@@ -46,4 +46,7 @@ author: Emily McGinn
 - {:.indent-3} Executive Order July 23, 2025
 - [Nightshade](https://nightshade.cs.uchicago.edu/)
 - {:.indent-3} Method for "poisoning" images in AI data models
+- Constellate Slack
+- {:.indent-3} Now that Constellate has rebranded, their Slack workspace is AI & Higher Education
+ithaka-ai-higher-ed.slack.com 
 
