@@ -1,7 +1,5 @@
 ---
 layout: narrative
-title: AI Snake Oil
-author: Emily McGinn
 ---
 
 # [AI Snake Oil](https://www.aisnakeoil.com/)
