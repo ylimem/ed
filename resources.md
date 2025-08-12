@@ -38,6 +38,7 @@ author: Emily McGinn
 - {:.indent-3} Episode of the Maintenance Phase podcast that details the history of actual Snake Oil.
 - [The Bopper's Liar](https://pod.link/1097417804/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMjE1MTc5NTM0Mg)
 - {:.indent-3} Episode of Chapo Trap House covers a wide range of topics including Anas al-Sharif's last testament. Minute 34 starts a takedown of tech bro AI Hype and "vibe physics."
+
 ---
 [^fn1]: "Synopsis," [Coded Bias](https://www.codedbias.com/about)
 
