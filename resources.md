@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: narrative
 title: Resources
 author: Emily McGinn
 ---
