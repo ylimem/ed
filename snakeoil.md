@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: narrative
 title: AI Snake Oil
 author: Emily McGinn
 ---
