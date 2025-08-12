@@ -64,6 +64,7 @@ July 22 Chapters 1-3
 - {:.indent-3} ShotSpotter p. 263
 - {:.indent-3} NEDA p. 277
 - Kai's and Maya's worlds p. 281
+
 #### AI Hype
 - Gartner hype cycle p. 232
 - AI winter p. 235
