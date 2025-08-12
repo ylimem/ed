@@ -18,6 +18,7 @@ author: Emily McGinn
 - [Could AI slow science?](https://www.aisnakeoil.com/p/could-ai-slow-science), Sayash Kapoor and Arvind Narayanan (2025)
 - [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://s10251.pcdn.co/pdf/2021-bender-parrots.pdf), Emily Bender, Timnit Gebru, Angelina McMillan-Major, Scmargaret Shmitchell (2021)
 - [Is 'Sweatshop Data' really over?](https://time.com/7306153/ai-sweatshop-data-over/), Billy Perrigo (2025)
+- [ChatGPT is eating the world](https://chatgptiseatingtheworld.com/), aggregate of AI and copyright articles
 
 ### Books
 - [Solidarity: The Past, Present, and Future of a World-Changing Idea](https://www.penguinrandomhouse.com/books/740355/solidarity-by-leah-hunt-hendrix-and-astra-taylor/), Leah Hunt-Hendrix, Astra Taylor
