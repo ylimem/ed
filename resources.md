@@ -21,6 +21,7 @@ author: Emily McGinn
 
 ### Books
 - [Solidarity: The Past, Present, and Future of a World-Changing Idea](https://www.penguinrandomhouse.com/books/740355/solidarity-by-leah-hunt-hendrix-and-astra-taylor/), Leah Hunt-Hendrix, Astra Taylor
+- [Galatea 2.2](https://en.wikipedia.org/wiki/Galatea_2.2), Richard Powers
 
 ---
 
@@ -35,7 +36,8 @@ author: Emily McGinn
 ### Podcasts
 - [Snake Oil](https://podcasts.apple.com/us/podcast/snake-oil/id1535408667?i=1000507558767) 
 - {:.indent-3} Episode of the Maintenance Phase podcast that details the history of actual Snake Oil.
-
+- [The Bopper's Liar](https://pod.link/1097417804/episode/dGFnOnNvdW5kY2xvdWQsMjAxMDp0cmFja3MvMjE1MTc5NTM0Mg)
+- {:.indent-3} Episode of Chapo Trap House covers a wide range of topics including Anas al-Sharif's last testament. Minute is a takedown of tech bro AI Hype.
 ---
 [^fn1]: "Synopsis," [Coded Bias](https://www.codedbias.com/about)
 
