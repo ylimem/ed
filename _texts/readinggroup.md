@@ -50,9 +50,27 @@ July 22 Chapters 1-3
 #### Labor
 - Labor exploitation for content moderation p. 180-83
 
-
+## Conclusion: AI myths
 8/12 Ch 7-8
-
+#### Case Studies
+- Healthcare
+- {:.indent-3} EPIC sepsis model p. 227
+- Crypto p. 233
+- News media p. 247
+- Higher Ed
+- {:.indent-3} AI text generation p. 262
+- {:.indent-3} Social Sentinel p. 264
+- Social
+- {:.indent-3} ShotSpotter p. 263
+- {:.indent-3} NEDA p. 277
+- Kai's and Maya's worlds p. 281
+#### AI Hype
+- Gartner hype cycle p. 232
+- AI winter p. 235
+- top-N accuracy p. 240
+- Leakage p. 244
+- criti-hype p. 253
+- Regulation p. 269
 # Additional Materials
 - [Resources](https://ylimem.github.io/ed/resources)
 - [Future reading suggestions](https://livejohnshopkins-my.sharepoint.com/:x:/g/personal/emcginn5_jh_edu/Ed8MTOIWqpZBg66fLKKjuBsBGDQoxONAcEc3PHqN3TdKjg)
