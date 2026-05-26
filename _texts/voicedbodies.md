@@ -17,4 +17,5 @@ source: notes
   <br>
   <br>
 **Chapter 3:** Voice activated humanness
+- <a href="https://ylimem.github.io/ed/texts/mechwomen/">unbodied voices</a>
 
