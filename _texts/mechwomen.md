@@ -12,11 +12,11 @@ source: Upper division course in COLT, UofO
  <li>L’Eve Future - Villiers d’Isle-Adam</li>
   <li>Pygmalion - George Bernard Shaw</li>
  </ul>
-</Ul>
+
 <em>New Connections</em>
 <UL><li>Mechanical AI women</li>
 <ul><li>ELIZA</li>
 <li>Alexa</li>
 <li>Siri</li></ul></UL>
-</br>
+
 <p>Women as rupture between mind and body. Continued in AI as unbodied voice. How does this relate to customary explantion that women's voices are more soothing and less commanding and aggressive?</p>
