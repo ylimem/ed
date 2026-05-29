@@ -8,7 +8,7 @@ source: notes
 <br>
 <br>
 **Chapter 1:** Voice and humanness <br>
-  - <a href="https://ojs.scholarsportal.info/ontariotechu/index.php/id/article/view/290"><Altered voice, altered humanness</a>
+  - <a href="https://ojs.scholarsportal.info/ontariotechu/index.php/id/article/view/290">Altered voice, altered humanness</a>
   
 **Chapter 2:** Machine as speaker and hearer
   <br>
