@@ -1,3 +1,9 @@
+---
+layout: narrative
+title: "Linguistic Evasion"
+author: Emily McGinn
+source: notes
+---
 **Oral Evasion**
 Opting out of lingustic representation in an LLM
 - Not all needs to be known
