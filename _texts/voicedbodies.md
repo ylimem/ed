@@ -14,7 +14,7 @@ source: notes
   <br>
   <br>
 **Chapter 3:** Voice activated humanness
-- <a href="https://ylimem.github.io/ed/texts/mechwomen/">unbodied voices</a>
+- <a href="https://ylimem.github.io/ed/mechwomen/">Unbodied voicesand mechanical women</a>
 
 **Chapter 4:** Evasion vs. Erasure
- - <a href="https://ylimem.github.io/ed/texts/oralevasion">Linguistic evasion</a>
+ - <a href="https://ylimem.github.io/ed/oralevasion">Linguistic evasion</a>
