@@ -20,6 +20,4 @@ source: notes
 - <a href="https://ylimem.github.io/ed/texts/mechwomen/">unbodied voices</a>
 
 **Chapter 4:** Evasion vs. Erasure
- - Oral counter-space
-   - <a href= "https://silenttrystero.tumblr.com/post/40868239520/lloyd-david-irish-culture-and-colonial-modernity">Lloyd, David. Irish Culture and Colonial Modernity 1800-2000: The Transformation of Oral Space.</a>
-- Silence of an AI future
+ - <a href="https://ylimem.github.io/ed/texts/oralevasion">Linguistic evasion</a>
