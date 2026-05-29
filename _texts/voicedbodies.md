@@ -4,14 +4,11 @@ title: "Voiced bodies, unbodied voices"
 author: Emily McGinn
 source: notes
 ---
-**Introduction:** Altered voice, altered humanness
+**Introduction:** 
 <br>
 <br>
 **Chapter 1:** Voice and humanness <br>
-  - philosophical link between speech and soul <br>
-  - broken speech <br>
-  - rethinking this connection<br>
-  - crip linguistics<br>
+  - <a href="https://ojs.scholarsportal.info/ontariotechu/index.php/id/article/view/290"><Altered voice, altered humanness</a>
   
 **Chapter 2:** Machine as speaker and hearer
   <br>
