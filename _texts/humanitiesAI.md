@@ -24,4 +24,4 @@ title: Vital Humanities
     - wrestling with text and hard things is a valuable skill
    
 ### Resources
-(Model Tell - The Linguistic Fingerprints of AI](https://modeltell.com/)
+[Model Tell - The Linguistic Fingerprints of AI](https://modeltell.com/)
