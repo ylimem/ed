@@ -22,3 +22,6 @@ title: Vital Humanities
   - Reading and writing is not a waste of time to be skipped with AI summaries
     - ***key point*** how to thread this needle of capitalist discourse of time saved is money saved
     - wrestling with text and hard things is a valuable skill
+   
+### Resources
+(Model Tell - The Linguistic Fingerprints of AI](https://modeltell.com/)
